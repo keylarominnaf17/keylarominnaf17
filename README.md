@@ -1,4 +1,3 @@
-<!--
 # 👋 Hi there, I’m Keyla
 
 I’m a behavioral analyst turned data explorer, driven by a deep curiosity for what numbers don’t always say out loud. I believe data isn't just a trail of facts—it's human behavior encoded in patterns. My mission? To decode those stories, solve meaningful problems, and prevent the ones no one’s talking about yet.
@@ -48,4 +47,3 @@ If you're into data with a soul, curious hypotheses, or just want to swap ideas,
 - 👯 I’m looking to collaborate on behavior-informed analytics, especially in health, consumer, or social impact domains  
 - 💬 Ask me about: data interpretation, human-centered analysis, Python, or how psychology can shape better algorithms  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keylarominnaf17) or right here on GitHub 
--->
